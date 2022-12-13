@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "PC Desktop",
+      "description": "PC simple",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Xbox One",
+      "description": "Microsoft Gaming",
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "name": "Playstation 4",
+      "description": "Sony gaming",
+      "price": 4000,
+      "inStock": true
+    },
+    {
+      "name": "Playstation 5",
+      "description": "Sony gaming",
+      "price": 5000,
+      "inStock": false,
+      "id": 5
+    }
+  ]
+}
